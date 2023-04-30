@@ -1,4 +1,4 @@
-# gotbook
+# stock app
 
 ## Project setup
 ```
